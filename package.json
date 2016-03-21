@@ -1,0 +1,18 @@
+{
+  "name": "ios-book-search",
+  "description": "React-Native book search IOS app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.21.0"
+  },
+  "author": "David Moss",
+  "license": "The MIT License (MIT)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmoss/ios-book-search.git"
+  }
+}
